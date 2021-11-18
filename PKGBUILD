@@ -1,11 +1,12 @@
+# Maintainer: dr460nf1r3 <dr460nf1r3 at chaotic dot cx>
 # Maintainer: Pedro H. Lara Campos <root@pedrohlc.com>
 # Contributor: Florian Pritz <bluewind@xinu.at>
 # Contributor: Dan McGee <dan@archlinux.org>
 
 pkgname=chaotic-mirrorlist
-pkgver=20210516
+pkgver=20211118
 pkgrel=1
-pkgdesc="Chaotic-AUR mirror list for use by pacman"
+pkgdesc="Chaotic-AUR mirror list to use with Pacman"
 arch=('any')
 url="https://aur.chaotic.cx"
 license=('GPL')
@@ -28,4 +29,4 @@ package() {
   install -m644 "$srcdir/mirrorlist" "$pkgdir/etc/pacman.d/chaotic-mirrorlist"
 }
 
-sha256sums=('ef692d4aaef9d9e1d88687d7ea6fbc9fdae117f67c8f1b319ad6a3acfd5d73e9')
+sha256sums=('afadb2789d406a7be3e568a5d468f89b95c46d36e3493f4009958cd34a43e9ee')

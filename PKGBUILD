@@ -4,9 +4,9 @@
 # Contributor: Dan McGee <dan@archlinux.org>
 
 pkgname=chaotic-mirrorlist
-pkgver=20211129
+pkgver=2021212
 pkgrel=1
-pkgdesc="Chaotic-AUR mirror list to use with Pacman"
+pkgdesc="Chaotic-AUR mirrorlist to use with Pacman"
 arch=('any')
 url="https://aur.chaotic.cx"
 license=('GPL')

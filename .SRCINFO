@@ -1,12 +1,12 @@
 pkgbase = chaotic-mirrorlist
 	pkgdesc = Chaotic-AUR mirrorlist to use with Pacman
-	pkgver = 20220418
-	pkgrel = 1
+	pkgver = 20220504
+	pkgrel = 2
 	url = https://aur.chaotic.cx
 	arch = any
 	license = GPL
 	backup = etc/pacman.d/chaotic-mirrorlist
 	source = mirrorlist
-	sha256sums = ff50e03d174db50e6153dde95edd0a1217ff806b682a0f79f4ac8d8509dd88a5
+	sha256sums = 5ecda664193bd1ae56d6e7aaaeccc75972615fb69fe390a06153a4bf4b64e253
 
 pkgname = chaotic-mirrorlist

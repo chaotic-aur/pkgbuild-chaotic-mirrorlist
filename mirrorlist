@@ -48,7 +48,7 @@ Server = https://ca-mirror.chaotic.cx/$repo/$arch
 # India
 # * By Naman (Kaithal)
 Server = https://in-mirror.chaotic.cx/$repo/$arch
-# * By Albony <t.me/shrirangkahale>
+# * By Albony <https://albony.xyz/>
 Server = https://in-2-mirror.chaotic.cx/$repo/$arch
 
 # Singapore

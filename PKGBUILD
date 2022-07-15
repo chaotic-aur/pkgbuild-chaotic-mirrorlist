@@ -29,4 +29,4 @@ package() {
   install -m644 "$srcdir/mirrorlist" "$pkgdir/etc/pacman.d/chaotic-mirrorlist"
 }
 
-sha256sums=('ad803c0750d2072b202e2628e615f1299548c88709def2e5b4265f4ff8381e72')
+sha256sums=('00316fb3e5fe14023450f6657108a5726ce3ec50b1272de2ac9c8d96b131bb78')

@@ -61,7 +61,7 @@ Server = https://in-2-mirror.chaotic.cx/$repo/$arch
 # * By: <t.me/silent_heigou> (Seoul)
 Server = https://kr-mirror.chaotic.cx/$repo/$arch
 
-# Saudi Arabia
+# South Africa
 # * By: ayulauffer <t.me/ayulauffer>
 Server = https://sa-mirror.chaotic.cx/$repo/$arch
 

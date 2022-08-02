@@ -57,6 +57,10 @@ Server = https://in-mirror.chaotic.cx/$repo/$arch
 # * By Albony <https://albony.xyz/>
 Server = https://in-2-mirror.chaotic.cx/$repo/$arch
 
+# Japan
+# * By: ayulauffer <t.me/ayulauffer>
+Server = https://jp-mirror.chaotic.cx/$repo/$arch
+
 # Korea
 # * By: <t.me/silent_heigou> (Seoul)
 Server = https://kr-mirror.chaotic.cx/$repo/$arch
@@ -92,6 +96,8 @@ Server = https://uk-mirror.chaotic.cx/$repo/$arch
 # Arizona
 # * By: ayulauffer <t.me/ayulauffer>
 Server = https://us-az-mirror.chaotic.cx/$repo/$arch
+# Florida
+Server = https://us-fl-mirror.chaotic.cx/$repo/$arch
 # Michigan
 # * By: Technetium1 <github.com/Technetium1>
 Server = https://us-mi-mirror.chaotic.cx/$repo/$arch

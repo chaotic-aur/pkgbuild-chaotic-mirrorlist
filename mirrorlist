@@ -12,7 +12,7 @@ Server = https://au-mirror.chaotic.cx/$repo/$arch
 # Brazil
 # * By: Universidade Federal de São Carlos (São Carlos)
 Server = https://br-mirror.chaotic.cx/$repo/$arch
-# * By: Alisson <https://alisson.sh> (São Paulo)
+# * By: Alisson <t.me/alissonlauffer> (São Paulo)
 Server = https://br-2-mirror.chaotic.cx/$repo/$arch
 
 # Bulgaria
@@ -47,10 +47,6 @@ Server = https://de-3-mirror.chaotic.cx/$repo/$arch
 # * By: redgloboli
 Server = https://de-4-mirror.chaotic.cx/$repo/$arch
 
-# Japan
-# * By: ayulauffer <t.me/ayulauffer>
-Server = https://jp-mirror.chaotic.cx/$repo/$arch
-
 # Hong Kong
 # * By: ayulauffer <t.me/ayulauffer>
 Server = https://hk-mirror.chaotic.cx/$repo/$arch
@@ -60,6 +56,10 @@ Server = https://hk-mirror.chaotic.cx/$repo/$arch
 Server = https://in-mirror.chaotic.cx/$repo/$arch
 # * By Albony <https://albony.xyz/>
 Server = https://in-2-mirror.chaotic.cx/$repo/$arch
+
+# Japan
+# * By: ayulauffer <t.me/ayulauffer>
+Server = https://jp-mirror.chaotic.cx/$repo/$arch
 
 # Korea
 # * By: <t.me/silent_heigou> (Seoul)
@@ -97,7 +97,7 @@ Server = https://uk-mirror.chaotic.cx/$repo/$arch
 # * By: ayulauffer <t.me/ayulauffer>
 Server = https://us-az-mirror.chaotic.cx/$repo/$arch
 # Florida
-# * By: Alisson <https://alisson.sh>
+# * By: Alisson <t.me/alissonlauffer>
 Server = https://us-fl-mirror.chaotic.cx/$repo/$arch
 # Michigan
 # * By: Technetium1 <github.com/Technetium1>

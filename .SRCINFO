@@ -7,6 +7,6 @@ pkgbase = chaotic-mirrorlist
 	license = GPL
 	backup = etc/pacman.d/chaotic-mirrorlist
 	source = mirrorlist
-	sha256sums = e961edda0cd6e43f683c2d8305f073011fd668d2d45c268004f98048500c8e21
+	sha256sums = 2cd9fe977862d8bb0db72fdc6cfcbecd8393e19cf2bd096e8a05cec24837ff34
 
 pkgname = chaotic-mirrorlist

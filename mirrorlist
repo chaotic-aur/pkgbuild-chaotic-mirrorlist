@@ -31,6 +31,10 @@ Server = https://ca-2-mirror.chaotic.cx/$repo/$arch
 # * By: ayulauffer <t.me/ayulauffer>
 Server = https://ca-3-mirror.chaotic.cx/$repo/$arch
 
+# China
+# * By Aliyun (ali-yum@alibaba-inc.com)
+Server = https://mirrors.aliyun.com/$repo/$arch
+
 # Chile
 # * By: ayulauffer <t.me/ayulauffer>
 Server = https://cl-1-mirror.chaotic.cx/$repo/$arch

@@ -32,7 +32,7 @@ Server = https://ca-2-mirror.chaotic.cx/$repo/$arch
 Server = https://ca-3-mirror.chaotic.cx/$repo/$arch
 
 # China
-# * By Aliyun (https://mirrors.aliyun.com/chaotic-aur/)
+# * By Aliyun (ali-yum@alibaba-inc.com)
 Server = https://mirrors.aliyun.com/$repo/$arch
 
 # Chile

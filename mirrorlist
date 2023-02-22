@@ -44,7 +44,7 @@ Server = https://de-4-mirror.chaotic.cx/$repo/$arch
 
 # Greece
 # * By: vmmaniac <github.com/vmmaniac>
-Server = https://mirrors.sytes.net/$repo/$arch
+Server = https://gr-mirror.chaotic.cx/$repo/$arch
 
 # India
 # * By Naman (Kaithal)

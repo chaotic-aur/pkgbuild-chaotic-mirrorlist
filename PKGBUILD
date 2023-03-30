@@ -4,7 +4,7 @@
 # Contributor: Dan McGee <dan@archlinux.org>
 
 pkgname=chaotic-mirrorlist
-pkgver=20230328
+pkgver=20230330
 pkgrel=1
 pkgdesc="Chaotic-AUR mirrorlist to use with Pacman"
 arch=('any')

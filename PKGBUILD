@@ -4,8 +4,8 @@
 # Contributor: Dan McGee <dan@archlinux.org>
 
 pkgname=chaotic-mirrorlist
-pkgver=20230422
-pkgrel=2
+pkgver=20230424
+pkgrel=1
 pkgdesc="Chaotic-AUR mirrorlist to use with Pacman"
 arch=('any')
 url="https://aur.chaotic.cx"
@@ -29,4 +29,4 @@ package() {
   install -m644 "$srcdir/mirrorlist" "$pkgdir/etc/pacman.d/chaotic-mirrorlist"
 }
 
-sha256sums=('0e32193cd55c76398fa885e804d4854f5b9970ffd9bd6dc278ba038b647e8c71')
+sha256sums=('3611676a1de8b68de899042433ffa916d1d6350d6e2bfa053dc7ff469d4fd914')

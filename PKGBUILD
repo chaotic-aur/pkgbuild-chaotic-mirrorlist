@@ -5,7 +5,7 @@
 
 pkgname=chaotic-mirrorlist
 pkgver=20230710
-pkgrel=1
+pkgrel=2
 pkgdesc="Chaotic-AUR mirrorlist to use with Pacman"
 arch=('any')
 url="https://aur.chaotic.cx"

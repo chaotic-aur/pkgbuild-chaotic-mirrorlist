@@ -4,7 +4,7 @@
 # Contributor: Dan McGee <dan@archlinux.org>
 
 pkgname=chaotic-mirrorlist
-pkgver=20240130
+pkgver=20240306
 pkgrel=1
 pkgdesc="Chaotic-AUR mirrorlist to use with Pacman"
 arch=('any')
@@ -12,6 +12,8 @@ url="https://aur.chaotic.cx"
 license=('GPL')
 backup=(etc/pacman.d/chaotic-mirrorlist)
 source=(mirrorlist)
+# This replaces gets removed by the build infra, but it is also present in the interfere
+replaces=(chaotic-kf5-dummy)
 
 # NOTE on building this package:
 # * Go to the trunk/ directory
